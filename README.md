@@ -6,6 +6,11 @@ This repository contains a simple application that uses the Word2Vec model to re
 
 The application utilizes the Gensim library to load a pre-trained Word2Vec model that has learned to represent words (in this case, ingredients) in a high-dimensional vector space. The model captures semantic relationships between words, allowing it to find ingredients that are similar in meaning or context.
 
+## Demo
+
+Check out the live demo of the Ingredient Recommender application [here](https://huggingface.co/spaces/egecandrsn/FoodPair.v0).
+
+
 ### Prerequisites
 
 To run this application, you need to have Python and the required libraries installed. You can install the necessary dependencies using the following command:
